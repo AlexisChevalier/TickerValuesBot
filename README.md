@@ -8,14 +8,18 @@ Uses https://www.cryptonator.com/api as data provider
 Usage
 =========
 
-```` go run main.go <Telegram Bot Token>
+```` 
+go run main.go <Telegram Bot Token>
+```` 
 
 Telegram Usage
 ==========
 
 Send a message to the bot formatted like this:
 
-````BTCEUR
+````
+BTCEUR
+```` 
 
 BTCEUR will return the price of 1 BTC in EUR
 
